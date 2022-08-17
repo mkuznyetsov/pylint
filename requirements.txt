@@ -16,8 +16,6 @@ mccabe==0.7.0
     # via -r requirements.in
 platformdirs==2.5.2
     # via -r requirements.in
-poetry-core==1.0.0
-    # via -r requirements.in
 tomli==2.0.1
     # via -r requirements.in
 tomlkit==0.11.4
