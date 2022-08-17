@@ -2,3 +2,4 @@ wheel
 setuptools
 setuptools-scm
 poetry-core==1.0.0
+flit_core
